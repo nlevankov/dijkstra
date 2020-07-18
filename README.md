@@ -1,6 +1,6 @@
 ## dijkstra
 
-This program implements the ["Dijkstra's algorithm"](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).  
+This program implements the [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).  
 You can input a graph with data about path points manually or from a file.
 
 Ready to work example (Windows 7 64bit):  
