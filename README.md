@@ -3,10 +3,6 @@
 This program implements the [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).  
 You can input a graph with data about path points manually or from a file.
 
-Ready to work example (Windows 7 64bit):  
-https://drive.google.com/uc?id=1T_PmtUKC82AWuNtkqKu526NBHZ1oKuwx
-
-
 ## Screenshots
 
 ![Screenshot 1](https://drive.google.com/uc?id=1B9LcrDx2OkqEz5TIEGSFjFwtKKMdy2Nt)
